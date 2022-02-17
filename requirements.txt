@@ -1,4 +1,7 @@
 streamlit
+streamlit-book
 pandas
 numpy
 matplotlib
+xlrd
+openpyxl
