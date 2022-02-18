@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Visualización Media")
+st.title("Visualización Avanzada")
 
 st.markdown("""
 * Resumen del archivo proporcionado
